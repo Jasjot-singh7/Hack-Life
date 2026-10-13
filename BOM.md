@@ -19,7 +19,7 @@
 | [4-Pin 2.54mm Breakaway Male Header Strip](https://www.digikey.in/en/products/detail/seeed-technology-co-ltd/113991054/16652880) | External connection header used to expose the 3.3V, GND, SDA, and SCL data lines for external I2C device add-ons. | 1 | $0.15 | $0.15 | [DigiKey](https://www.digikey.in/en/products/detail/seeed-technology-co-ltd/113991054/16652880) |
 | [8-Pin 2.54mm Breakaway Male Header Strip](https://www.digikey.in/en/products/detail/seeed-technology-co-ltd/113991054/16652880) | Breakout header interface exposed to probe, test, or bridge unused micro-controller internal lines or pin traces. | 1 | $0.28 | $0.28 | [DigiKey](https://www.digikey.in/en/products/detail/seeed-technology-co-ltd/113991054/16652880) |
 | **Parts subtotal** | — | — | — | **$10.62** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.62** | — |
+| **Tax & shipping** | — | — | — | **$13.73** | — |
+| **Total** | — | — | — | **$24.35** | — |
 
-$19.38 left of the tier's funding.
+$5.65 left of the tier's funding.
