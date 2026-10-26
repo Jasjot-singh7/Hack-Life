@@ -4,8 +4,8 @@ A USB MIDI controller built around a bare RP2040 chip, with big, bouncy arcade b
 
 Made for Hack Life, Week 3.
 
-![Idea reel sketch](images/sketch.png)
-<!-- Add your paper sketch photo here -->
+
+
 
 ## Features
 
