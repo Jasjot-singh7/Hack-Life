@@ -30,7 +30,7 @@ The board is 120 x 70 mm and follows the original sketch:
 
 The arcade buttons mount in the case lid in the same arrangement, with a wire from each button to its connector on the board.
 
-![PCB photo](images/Screenshot 2026-10-26 164018.jpg)
+![PCB photo](images/164018.jpg)
 <!-- Add a screenshot or photo of the finished PCB here -->
 
 ## Schematic
