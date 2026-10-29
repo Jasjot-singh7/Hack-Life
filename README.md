@@ -4,6 +4,7 @@ A USB MIDI controller built around a bare RP2040 chip, with big, bouncy arcade b
 
 Made for Hack Life, Week 3.
 
+<img width="546" height="970" alt="image" src="https://github.com/user-attachments/assets/d2c4d8e3-6b59-4d12-b959-a6cfc5f3be0d" />
 
 
 
@@ -30,13 +31,12 @@ The board is 120 x 70 mm and follows the original sketch:
 
 The arcade buttons mount in the case lid in the same arrangement, with a wire from each button to its connector on the board.
 
-![PCB photo](images/164018.jpg)
-<!-- Add a screenshot or photo of the finished PCB here -->
+<img width="1274" height="708" alt="Screenshot 2026-10-26 163737" src="https://github.com/user-attachments/assets/a682d48d-43c9-4468-9e5c-af3e95b4692a" />
+Layout of components
 
 ## Schematic
 
-![Schematic](images/schematic.png)
-<!-- Add your KiCad schematic export here -->
+<img width="848" height="596" alt="Screenshot 2026-10-26 164018" src="https://github.com/user-attachments/assets/df8f78d2-8537-4a96-b255-f42a1893bdef" />
 
 ## Pin map
 
@@ -107,6 +107,3 @@ Firmware is in progress.
 - `production/` Gerbers and bill of materials
 - `firmware/` MIDI firmware
 
-## Credits
-
-Made for Hack Life Week 3. PCB layout based on the Hack Club MIDI keypad tutorial.
